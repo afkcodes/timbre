@@ -72,7 +72,7 @@
     "react": "19.2.8",
     "react-dom": "19.2.8",
     "react-native": "0.87.1",
-    "react-native-builder-bob": "^0.43.0",
+    "react-native-builder-bob": "^0.43.1",
     "react-native-nitro-modules": "^0.37.0",
     "typescript": "^7.0.2",
     "vitest": "^4.1.10"
