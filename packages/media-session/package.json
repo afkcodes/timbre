@@ -61,10 +61,10 @@
   },
   "devDependencies": {
     "@jamesacarr/eslint-formatter-github-actions": "^0.2.0",
-    "@types/node": "^26.5.1",
+    "@types/node": "^26.6.1",
     "@types/react": "19.2.18",
     "conventional-changelog-conventionalcommits": "^10.2.1",
-    "expo": "^57.0.21",
+    "expo": "^57.0.23",
     "nitrogen": "^0.37.0",
     "react": "19.2.8",
     "react-native": "0.87.1",
